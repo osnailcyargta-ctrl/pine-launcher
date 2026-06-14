@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dock_icon_size">52dp</dimen>
+    <dimen name="folder_preview_icon">22dp</dimen>
+    <dimen name="popup_height">200dp</dimen>
+    <dimen name="widget_height">180dp</dimen>
+</resources>
